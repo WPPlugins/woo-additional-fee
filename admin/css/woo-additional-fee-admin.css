@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+.wooaf_left{ width:50%; float:left; }
+.wooaf_left form input[type='text']{ width:100%;}
+.wooaf_right{ width:50%; float:right;}
+.wooaf_main .widefat{ border-radius:10px; padding:10px;}  
+h2.wooaf_main_title{ font-size:2em;}
+.wooaf_left .widefat td, .wooaf_left .widefat th{ text-align:right;}
+/*.wooaf_message{ display:none; }*/
